@@ -6,7 +6,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        new Participantes();
+        new CatalogoProdutos();
+        //new Participantes();
         //new MovieVote();
 
         /*cores.add("Azul");
